@@ -45,6 +45,8 @@ a:hover{
 footer{
     text-align: center;
     background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 footer > p{
     color: white;
